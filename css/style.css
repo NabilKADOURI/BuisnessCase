@@ -1,3 +1,4 @@
+/* css accueil */
 .bg-blue{background-color: #0077B6;}
 
 .bg-blue-clair {background-color: #ADD4DB;}
@@ -57,3 +58,5 @@ z-index: 1;}
 a {text-decoration: none !important ; color: white;  }
 
 input {border-radius: 5px;border: none; color:#0077B6;width: 235px;}
+
+/* css solutions */
