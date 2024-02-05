@@ -1,0 +1,57 @@
+.bg-blue{background-color: #0077B6;}
+
+.bg-blue-clair {background-color: #ADD4DB;}
+
+.bg-avis{background-color: #E29E21; opacity: 50%;}
+
+.bg-hero{background-image: url(../Business-case-images/fond-webp/fond_resultat.webp);
+background-size:cover;
+background-position: top;
+height: 850px;}
+
+.title-h1{margin-top: -80px;}
+
+.mt-200 {margin-top: 200px;}
+
+.mt-150 {margin-top: 150px;}
+
+.mt-100 {margin-top: 100px;}
+
+.mt-50 {margin-top: 50px;}
+
+.my-100{padding: 100px 0px 40px 0px;}
+
+h1, h2{color: #E29E21;}
+
+p, ul,h3{color:#0077b6; ;}
+
+p,ul,h2,h3{font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;} 
+
+h1{font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal; 
+font-size: 64px;}
+
+.fs-16{font-size: 16px;}
+
+.fs-24{font-size: 20px;}
+
+.border-title{border-left: #0077b6 solid 7px; border-radius: 2px; }
+
+.bg-fonctionnement {background-image: url(../Business-case-images/fond-webp/fond-comment_resultat.webp);
+background-position: center;
+background-repeat: no-repeat;
+height: 500px;
+margin-top: -50px;
+border-radius: 20px;
+margin-bottom: -50px;
+position: relative;
+z-index: 1;}
+
+.btn {background-color: #E29E21;border-radius: 20 px;}
+
+a {text-decoration: none !important ; color: white;  }
+
+input {border-radius: 5px;border: none; color:#0077B6;width: 235px;}
